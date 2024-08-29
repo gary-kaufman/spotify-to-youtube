@@ -34,3 +34,5 @@ build/
 
 clientsecret.json
 src/main/resources/client_secret.json
+application.properties
+src/main/resources/application.properties
