@@ -33,3 +33,4 @@ build/
 .vscode/
 
 clientsecret.json
+src/main/resources/client_secret.json
